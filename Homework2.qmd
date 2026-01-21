@@ -1,0 +1,8 @@
+---
+title: "Homework_02"
+format: html
+---
+
+This website is a hub for all the homeworks and code that goes with them
+
+fun fact-I bake bread
